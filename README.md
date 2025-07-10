@@ -33,6 +33,8 @@ In many organizations, HR and business teams often need quick access to employee
 
 <img width="1009" height="893" alt="Screenshot 2025-07-10 135132" src="https://github.com/user-attachments/assets/166603d0-a992-46f6-a50d-4890efc2f68a" />
 
+- 
+
 <img width="969" height="832" alt="Screenshot 2025-07-10 135216" src="https://github.com/user-attachments/assets/8d96a2b4-9a3c-4e3d-ad30-5541a04c42d0" />
 
 ## 🤖 How It Works
